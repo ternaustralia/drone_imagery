@@ -1,5 +1,5 @@
 ## multispec_indices
-Script to generate spectral indices in Cloud optimised Geotiff format (COG) from multispectral orthomosaic TIFF. This script has been tested with multispectral data from MicaSense RedEdge-MX and RedEdge-MX Dual sensors (please see [Drone Protocols](https://www.tern.org.au/field-survey-apps-and-protocols/) for more information). 
+Script to generate spectral indices in Cloud optimised Geotiff format (COG) from multispectral orthomosaic TIFF. This script has been tested with multispectral data from MicaSense RedEdge-MX and RedEdge-MX Dual sensors (please see the [Drone Data Collection and Processing Protocols](https://www.tern.org.au/field-survey-apps-and-protocols/) for more information). 
 
 Indices available:
    * Implement any new index through multispec_idx_wrapper
